@@ -27,7 +27,7 @@
 ## 📸 Application Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/ss5.png)
+![Home Screen](screenshots/ss5.jpg)
 
 ### ➕ Add Task
 ![Add Task](screenshots/ss1.png)
@@ -39,7 +39,7 @@
 ![Completed Tasks](screenshots/ss3.png)
 
 ### ✏️ Edit Task
-![Edit Task](screenshots/ss4.jpg)
+![Edit Task](screenshots/ss4.png)
 
 ## 📂 Project Structure
 
