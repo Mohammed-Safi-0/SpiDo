@@ -22,6 +22,17 @@
 | Gradle | Android build system |
 | Node.js & npm | Dependency management |
 
+## 📥 Download SpiDo
+
+Get the latest version of SpiDo for Android.
+
+\<p align="center">   \<a href="[https://github.com/Mohammed-Safi-0/SpiDo/releases/latest/download/app-release.apk](https://github.com/Mohammed-Safi-0/SpiDo/releases/latest/download/app-release.apk)">     \<img src="[https://img.shields.io/badge/Download-Android%20APK-brightgreen?style=for-the-badge&logo=android](https://img.shields.io/badge/Download-Android%20APK-brightgreen?style=for-the-badge\&logo=android)" alt="Download SpiDo APK">   \</a> \</p>
+
+**Latest Version:** v1.0.0
+**Platform:** Android
+**APK Size:** 34.7 MB
+
+
 ## 📸 Screenshots
 
 ## 📸 Application Screenshots
