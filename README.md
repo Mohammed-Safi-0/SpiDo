@@ -24,9 +24,22 @@
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+## 📸 Application Screenshots
 
-<!-- Add screenshots from the screenshots/ directory here -->
+### 🏠 Home Screen
+![Home Screen](screenshots/ss5.png)
+
+### ➕ Add Task
+![Add Task](screenshots/ss1.png)
+
+### 🎉 Task Completion Animation
+![Task Completion Animation](screenshots/ss2.png)
+
+### ✅ Completed Tasks
+![Completed Tasks](screenshots/ss3.png)
+
+### ✏️ Edit Task
+![Edit Task](screenshots/ss4.jpg)
 
 ## 📂 Project Structure
 
