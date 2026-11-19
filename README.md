@@ -26,10 +26,10 @@
 
 Get the latest version of SpiDo for Android.
 
-\<p align="center">   \<a href="[https://github.com/Mohammed-Safi-0/SpiDo/releases/latest/download/app-release.apk](https://github.com/Mohammed-Safi-0/SpiDo/releases/latest/download/app-release.apk)">     \<img src="[https://img.shields.io/badge/Download-Android%20APK-brightgreen?style=for-the-badge&logo=android](https://img.shields.io/badge/Download-Android%20APK-brightgreen?style=for-the-badge\&logo=android)" alt="Download SpiDo APK">   \</a> \</p>
+[![Download Android APK](https://img.shields.io/badge/Download-Android_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Mohammed-Safi-0/SpiDo/releases/latest/download/app-release.apk)
 
-**Latest Version:** v1.0.0
-**Platform:** Android
+**Latest Version:** v1.0.0  
+**Platform:** Android  
 **APK Size:** 34.7 MB
 
 
