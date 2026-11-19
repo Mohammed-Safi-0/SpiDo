@@ -33,8 +33,6 @@ Get the latest version of SpiDo for Android.
 **APK Size:** 34.7 MB
 
 
-## 📸 Screenshots
-
 ## 📸 Application Screenshots
 
 ### 🏠 Home Screen
